@@ -13,4 +13,4 @@ Gems is a platform that empowers and enhances the payment systems based on Ether
 * Distribution: Free Airdrop
 * Contract Address: 0xcbc05fb65736ad12bd1a8b441bfeece416c0bcb8
 ## Resource
-[Website](https:///) | [Whitepaper](https:///whitepaper.pdf) | [Twitter](https://twitter.com/GemsTokens)  | [Bitcointalk](https://bitcointalk.org) | [Slack](https://gemstokens.slack.com) | [Telegram](https://t.me/)
+[Website](https://gemstoken.net/) | [Whitepaper](https://gemstoken.net/whitepaper.pdf) | [Twitter](https://twitter.com/GemsTokens)  | [Bitcointalk](https://https://bitcointalk.org/index.php?topic=5052949.0) | [Slack](https://gemstokens.slack.com) | [Telegram](https://t.me/gemstokens)
